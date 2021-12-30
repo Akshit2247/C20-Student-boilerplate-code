@@ -56,7 +56,7 @@ function draw()
   rect(ground.position.x,ground.position.y,400,20);
   
   ellipse(rock.position.x,ball.position.y,20);
-  rect(wall.position.x,ground.position.y,200,20);
+  rect(wall.position.x,wall.position.y,200,20);
  
 }
 
